@@ -13,7 +13,7 @@ This is my first machine learning project, where I built a model to predict hous
 *Trained and evaluated with a Random Forest model
 
 # Dataset
-Used the House Prices: Advanced Regression Techniques dataset from Kaggle.
+Used the "California housing prices" dataset from Kaggle.
 
 # Technologies Used
 
